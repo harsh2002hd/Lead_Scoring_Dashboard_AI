@@ -2,7 +2,6 @@
   "name": "ai-lead-scoring-dashboard",
   "version": "1.0.0",
   "description": "AI Lead Scoring Dashboard with ML model and LLM reranker",
-  "homepage": "https://your-username.github.io/your-repo-name",
   "main": "index.js",
   "scripts": {
     "start": "react-scripts start",
